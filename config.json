@@ -13,9 +13,9 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "CYRUS_BOT"
-    "OTHERBOT": [
+    "OTHERBOT": 
         ""
-    ],
+    
     "UNSENTVIP": [
         "",
         ""
